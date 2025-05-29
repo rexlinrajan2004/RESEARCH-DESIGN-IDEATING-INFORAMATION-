@@ -84,7 +84,9 @@ Sports
 Contact Us
 ## OUTPUT:
 ![Screenshot 2025-05-29 091322](https://github.com/user-attachments/assets/a1a00872-64f2-4dc5-b895-701e70c1806a)
-INFORMATION ARCHITECTURE (IA)
+
+
+## INFORMATION ARCHITECTURE (IA)
 ![Screenshot 2025-05-29 091332](https://github.com/user-attachments/assets/ed70f180-670a-4f1c-bd20-8b1afad09725)
 ## RESULT:
 Thus, the experiment was completed successfully
